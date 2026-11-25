@@ -1,0 +1,20 @@
+From: Bank Security <alerts@secure-bank-example.net>
+To: user@example.com
+Reply-To: attacker@other-example.net
+Subject: URGENT: Your Bank Account Is Locked
+MIME-Version: 1.0
+Content-Type: text/plain
+
+Dear Customer,
+
+Your bank account has been temporarily locked.
+
+Verify your account immediately to restore access.
+
+Visit the following link:
+
+http://192.0.2.10/login
+
+Failure to verify may result in account suspension.
+
+Bank Security Team
